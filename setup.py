@@ -18,7 +18,7 @@ setup(
     description="Pseudo labelling - Semisupervised Learning",
     url='https://github.com/shubhamjn1/Pseudo-Labelling---A-Semi-supervised-learning-technique',
     packages=[
-        'frameworks'
+        'framework'
     ],
     include_package_data=True,
     install_requires=requirements,
